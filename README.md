@@ -36,12 +36,12 @@ This ensures GTM teams can **slice and dice customer feedback** to align with ca
 ## Dashboard Screenshots
 
 <p align="center">
-  <img src="Overview.png" width="50%" />
-  <img src="Conversion_Rate.png" width="50%" />
+  <img src="Overview.png" width="45%" />
+  <img src="Conversion_Rate.png" width="45%" />
 </p>
 <p align="center">
-  <img src="Social Media Details.png" width="50%" />
-  <img src="Sentiment Analysis.png" width="50%" />
+  <img src="Social Media Details.png" width="45%" />
+  <img src="Sentiment Analysis.png" width="45%" />
 </p>
 
 
