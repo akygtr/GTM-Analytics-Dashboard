@@ -98,6 +98,30 @@ By Q4 2024, the dashboard showed:
 * **Negative sentiment dropped by 15%**
 * Positive reviews mentioning “better quality” started appearing.
 
-**GTM Outcome:** This case demonstrated how the dashboard is not only a **growth enabler**, but also a **churn defense tool**. By closing the loop between **customer feedback → GTM messaging → product action**, the Basketball product line stabilized its market perception.
+**GTM Outcome:** This case demonstrated how the dashboard is not only a **growth enabler**, but also a **churn defense tool**. By closing the loop between **customer feedback > GTM messaging > product action**, the Basketball product line stabilized its market perception.
+
+It **closed-loop GTM feedback cycle** is exactly what the dashboard enables: track > analyze > act > measure.
+---
+
+### Data Sources & Processing
+
+* **Customer Review Dataset** – Review text, product metadata, star ratings, customer IDs.
+* **NLP Sentiment Analysis** – Classified into Positive, Negative, Neutral, Mixed.
+* **Processed Tables** – `ReviewDate`, `ProductName`, `Rating`, `CustomerID`, `SentimentCategory`, `ReviewText`.
+
+### Tools & Technologies
+
+* **Visualization**: Power BI / Tableau (with interactive slicers & drilldowns).
+* **Preprocessing**: Python / SQL for ETL and sentiment tagging.
+* **NLP Libraries**: TextBlob, spaCy, nltk.
+
+---
+
+## How GTM Teams Can Use This
+
+1. **Filter by Product, Month, or Sentiment** : spot granular campaign shifts.
+2. **Check Sentiment Trends** : measure if campaign improved perception.
+3. **Drill Down to Reviews** : capture customer verbatims for storytelling.
+4. **Identify At-Risk Segments** : tackle negative themes early before churn.
 
 ---
