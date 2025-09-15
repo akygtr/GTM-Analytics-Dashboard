@@ -27,3 +27,15 @@ This ensures GTM teams can **slice and dice customer feedback** to align with ca
 * **Monthly Trends** – Detects seasonal or campaign-driven shifts in customer satisfaction.
 * **Product-Level Analysis** – Pinpoints winners to double down on and laggards to improve.
 * **Customer-Level Review Explorer** – Surfaces high-value customer voices for storytelling.
+
+
+---
+
+## Dashboard Visuals → GTM Use Cases
+ **Visual**                                   | **Description**                                                 | **GTM Use Case**                                                                  |
+| -------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+|  **Bar Chart: Reviews by Rating**           | Breaks down customer reviews across 1–5 stars                   | **Adoption & Satisfaction Tracker** – Map how customers perceive overall value    |
+|  **Bar Chart: Reviews by Sentiment**       | Categorizes review text into Positive, Negative, Neutral, Mixed | **Voice of Customer Analyzer** – Create messaging that reflects customer emotions |
+|  **Line Chart: Monthly Sentiment Trend**   | Shows sentiment variation across months                         | **Campaign Effectiveness Monitor** – Measure campaign or product launch impact    |
+|  **Scatterplot: Rating vs. Review Volume** | Shows which products are most reviewed and how they score       | **Market Traction Analyzer** – Identify high adoption vs. niche products          |
+|  **Customer Review Table**                 | Raw reviews with metadata (rating, sentiment, product)          | **Storytelling Tool** – Pull real quotes for GTM positioning and sales collateral |
