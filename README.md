@@ -32,6 +32,19 @@ This ensures GTM teams can **slice and dice customer feedback** to align with ca
 ---
 
 ## Dashboard Visuals : GTM Use Cases
+
+## Dashboard Screenshots
+
+<p align="center">
+  <img src="Overview.png" width="45%" />
+  <img src="Conversion_Rate.png" width="45%" />
+</p>
+<p align="center">
+  <img src="Social Media Details.png" width="45%" />
+  <img src="Sentiment Analysis.png" width="45%" />
+</p>
+
+
  **Visual**                                   | **Description**                                                 | **GTM Use Case**                                                                  |
 | -------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 |  **Bar Chart: Reviews by Rating**           | Breaks down customer reviews across 1–5 stars                   | **Adoption & Satisfaction Tracker** – Map how customers perceive overall value    |
