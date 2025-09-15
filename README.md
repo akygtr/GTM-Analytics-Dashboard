@@ -5,3 +5,4 @@ Unlike static reports, this is a **dynamic dashboard** with:
 * **Slicers/Filters** for Year, Month, Product, and Sentiment Category.
 * **Granularity controls** (drill down from yearly to monthly to product-level insights).
 * **Interactive visuals** where users can pivot data in real time.
+This ensures GTM teams can **slice and dice customer feedback** to align with campaigns, product categories, and timeframes.
