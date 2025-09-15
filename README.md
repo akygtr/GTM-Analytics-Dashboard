@@ -126,3 +126,24 @@ It **closed-loop GTM feedback cycle** is exactly what the dashboard enables: tra
 4. **Identify At-Risk Segments** : tackle negative themes early before churn.
 
 ---
+
+## Future Enhancements
+
+* Geo-segmentation of reviews for localized GTM plays.
+* Predictive churn & upsell models.
+* Real-time review ingestion for live campaign monitoring.
+* Topic modeling to cluster campaign-relevant themes (e.g., “price,” “durability,” “customer service”).
+
+---
+
+## Conclusion
+
+The **GTM Analytics Dashboard** is not just a data visualization—it’s a **strategic decision-support tool**.
+
+It helps GTM teams:
+**Refine positioning & messaging**
+**Evaluate campaign ROI**
+**Enhance customer retention**
+**Drive growth through upsell & cross-sell**
+
+By blending **ratings + sentiment + interactivity**, this dashboard transforms customer voices into **market-ready GTM insights**.
