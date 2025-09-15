@@ -31,7 +31,7 @@ This ensures GTM teams can **slice and dice customer feedback** to align with ca
 
 ---
 
-## Dashboard Visuals → GTM Use Cases
+## Dashboard Visuals : GTM Use Cases
  **Visual**                                   | **Description**                                                 | **GTM Use Case**                                                                  |
 | -------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 |  **Bar Chart: Reviews by Rating**           | Breaks down customer reviews across 1–5 stars                   | **Adoption & Satisfaction Tracker** – Map how customers perceive overall value    |
@@ -39,3 +39,24 @@ This ensures GTM teams can **slice and dice customer feedback** to align with ca
 |  **Line Chart: Monthly Sentiment Trend**   | Shows sentiment variation across months                         | **Campaign Effectiveness Monitor** – Measure campaign or product launch impact    |
 |  **Scatterplot: Rating vs. Review Volume** | Shows which products are most reviewed and how they score       | **Market Traction Analyzer** – Identify high adoption vs. niche products          |
 |  **Customer Review Table**                 | Raw reviews with metadata (rating, sentiment, product)          | **Storytelling Tool** – Pull real quotes for GTM positioning and sales collateral |
+
+# GTM Case Studies from the Dashboard
+
+## 1. Fitness Tracker – Campaign Effectiveness (March 2024)
+In early Q1 2024, the **Fitness Tracker** product was struggling with customer sentiment. The dashboard highlighted that:
+
+* **Negative sentiment spiked to \~35%**,
+* A large portion of low-rated reviews mentioned *“syncing issues”* with third-party fitness apps.
+
+Recognizing this as both a **product weakness** and **GTM opportunity**, the team launched a **March 2024 product update campaign** with messaging around:
+
+> *“Seamless syncing with your favorite fitness apps.”*
+
+Post-campaign insights from the dashboard showed measurable success:
+
+* **5-star reviews increased by \~18%**
+* **Negative sentiment dropped by \~12%**
+
+**GTM Outcome:** This validated that addressing pain points directly in campaign messaging can shift perception. The sales team doubled down on “compatibility” as a differentiator, driving **higher conversions in Q2 2024**.
+
+---
